@@ -1,0 +1,14 @@
+handlers/Parameters.class
+tests/MainPageTests.class
+page/RegisterPage.class
+tests/AuthTests.class
+tests/ProfilePageTests.class
+handlers/WebDriverFactory.class
+page/AuthPage.class
+tests/RegisterPageTests.class
+handlers/ApiClient.class
+page/ForgotPasswordPage.class
+handlers/User.class
+handlers/UserResponsed.class
+page/ProfilePage.class
+page/MainPage.class
